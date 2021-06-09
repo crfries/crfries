@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Corey Fries</h1>
+<h1 align="center">Hi 👋, I'm Corey</h1>
 <h3 align="center">A passionate Web Developer from Arizona</h3>
 
-- 🌱 I’m currently learning **NextJs and Svelte**
+- 🌱 I’m currently learning **NextJs and Vue**
 
 - 👨‍💻 All of my projects are available at [www.coreys.world](www.coreys.world)
 
-- 💬 Ask me about **React, HTML, CSS, or JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Vue, PHP or JavaScript**
 
 - 📫 How to reach me **coreyrfries@gmail.com**
 
