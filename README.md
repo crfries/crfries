@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Corey</h1>
 <h3 align="center">A passionate Web Developer from Arizona</h3>
 
-- 🌱 I’m currently learning **NextJs and Vue**
+- 🌱 I’m currently learning **Vue and PHP**
 
 - 👨‍💻 All of my projects are available at [www.coreys.world](www.coreys.world)
 
