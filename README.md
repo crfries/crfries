@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [www.coreys.world](www.coreys.world)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Vue, PHP or JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Vue, or PHP**
 
 - 📫 How to reach me **coreyrfries@gmail.com**
 
